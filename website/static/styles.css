@@ -1,0 +1,33 @@
+/* Size for Brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colours for Brand */
+nav .navbar-brand .blue
+{
+    color: #4285F4;
+}
+nav .navbar-brand .red
+{
+    color: #DB4437;
+}
+nav .navbar-brand .yellow
+{
+    color: #F4B400;
+}
+nav .navbar-brand .green
+{
+    color: #0F9D58;
+}
+
+/* Custom Styles */
+.list-group-item
+{
+    text-align: left;
+}
+
+p {
+    white-space: pre-wrap;
+}

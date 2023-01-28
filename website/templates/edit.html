@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}Edit{% endblock %}
+
+{% block main %}
+    <div class="mb-3">
+        <form action='/{{ note.id }}/edit/' method="post">
+            <div class="mb-3">
+                <textarea autofocus class="form-control" id="note" name="note" rows="9">{{ note.text }}</textarea>
+            </div>
+            <button class="btn btn-success" type="submit">Edit</button>
+        </form>
+    </div>
+{% endblock %}
