@@ -21,6 +21,9 @@ nav .navbar-brand .green
 {
     color: #0F9D58;
 }
+nav .navbar-brand .black {
+    color: #6c757d;
+}
 
 /* Custom Styles */
 .list-group-item
