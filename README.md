@@ -1,4 +1,4 @@
-# Notes
+# NotePal
 A note-taking web application created using HTML, CSS, Flask and SQLite
 
 [Video Demo](https://www.youtube.com/watch?v=UlRzfZUTHnY)
